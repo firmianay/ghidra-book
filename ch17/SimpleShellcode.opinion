@@ -1,0 +1,6 @@
+<opinions>
+    <constraint loader="Simple ELF Shellcode Loader" compilerSpecID="gcc">
+        <constraint primary="3"    processor="x86"      endian="little" size="32" />
+        <constraint primary="62"   processor="x86"      endian="little" size="64" />
+    </constraint>
+</opinions>

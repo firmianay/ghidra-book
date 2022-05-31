@@ -1,0 +1,8 @@
+There are 3 samples in the shellcode_samples directory that have
+snippets of simple shellcode, and these trigger google's URL scanner,
+and may also trigger your AV engine.  If you want to see those samples
+as you work through the examples, you can unzip the file
+shellcode_samples.zip using the following case-senstive password:
+
+   ghidrabook
+
