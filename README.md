@@ -2,7 +2,7 @@
 
 本书 **《Ghidra权威指南》（[美] Chris Eagle, Kara Nance 著，杨超 译）** 已上架！[京东购买](https://item.jd.com/13611833.html) [当当购买](http://e.dangdang.com/products/1901315995.html)
 
-![img](./book.png)
+![img](./book.jpg)
 
 > Ghidra是最好的开源逆向工具，目前在多种领域有取代IDA Pro的趋势，在商业应用中也被广泛使用。这本书是介绍Ghidra的权威著作，值得一看。——吴石，腾讯科恩实验室负责人
 
